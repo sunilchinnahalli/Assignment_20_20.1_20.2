@@ -1,0 +1,2 @@
+# Assignment_20_20.1_20.2
+20.1: Read a stream of Strings, fetch the words which can be converted to numbers. Filter out the rows, where the sum of numbers in that line is odd. Provide the sum of all the remaining numbers in that batch  20.2:Read two streams 1. List of strings input by user 2. Real-time set of offensive words Find the word count of the offensive words inputted by the user as per the real-time set of offensive words
